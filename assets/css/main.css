@@ -307,7 +307,8 @@ sm {
     background: #fff;
     margin: 0 15px;
     position: relative;
-    margin-bottom: 45px 45px 50px 45px;
+    margin-bottom: 50px;
+	padding: 45px 45px 50px 45px;
  }
  
 .list-container .swiper-container .active {
