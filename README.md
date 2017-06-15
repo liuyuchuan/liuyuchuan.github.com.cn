@@ -2,6 +2,9 @@
 一世尘梦的Blog
 
 
+<h3 id="-">关于作者</h3>
+<p><a href="http://weibo.com/liaoxuefeng" target="_blank">廖雪峰</a>，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有《Spring 2.0核心技术与最佳实践》一书，多个业余开源项目托管在<a href="https://github.com/michaelliao" target="_blank">GitHub</a>，欢迎微博交流：</p>
+
 <MARQUEE style=WIDTH: 213px; HEIGHT: 120px scrollAmount=1 scrollDelay=1 direction=up width=213 height=120
 <P align=left公 告 : 本 blog 的 文 章 纯 属 原 创 未 经 本 人 许可 不 得 擅 自 转 载 </P</FONT</MARQUEE</FONT</DIV提示：1 ）公告内容（自我介绍）可以根据自己的想法改，在代码中改，字的中间可以加空格，
 每一个是一个单元（换行的意思）。
